@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App3i18n</string>
+    <string name="Bonjour">Bonjour monde !!!</string>
+    <string name="Bouton">Valider</string>
+</resources>
